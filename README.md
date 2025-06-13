@@ -3,7 +3,6 @@
 
 [![Python](https://img.shields.io/badge/python->=3.9-blue?logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.x-EE4C2C?logo=pytorch)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **TL;DR** This repo adds three watermark schemes—**feature-based**, **parameter-perturbation**, and **non-intrusive auxiliary head**—on top of Proof-of-Learning.  
 > The combo defeats state-of-the-art spoofing attacks while keeping accuracy intact (except when you push PP too hard).  
