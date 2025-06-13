@@ -181,7 +181,6 @@ Tiny-ImageNet demo:
   keywords={Watermarking;Computational modeling;Training;Data models;Cryptography;Adaptation models;Computational efficiency;Training data;Analytical models;Robustness;Authentication;Machine learning;Proof-of-learning;model watermarking;machine learning security;spoofing attack countermeasures;dual-layered verification;model authenticity;intellectual property protection in ML;computational effort authentication;security enhancements in machine learning;watermark robustness;model integrity verification},
   doi={10.1109/ACCESS.2024.3489776}}
 ```
-Released under the **MIT License** – see `LICENSE`.
 
 <br>
 
